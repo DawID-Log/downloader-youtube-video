@@ -42,3 +42,9 @@ To create an executable for the program, follow these steps:
 
 3. **Locate the Executable**:  
    After running the command, the executable will be located in the `dist` folder, which is created in the same directory as your script.
+
+---
+
+### **Download the ZIP File**
+
+You can also download the pre-packaged ZIP file containing the executable and all necessary dependencies. Once downloaded, extract the ZIP file and run the executable directly from your system, without the need for setting up Python or running the script manually.
